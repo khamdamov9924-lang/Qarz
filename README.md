@@ -1,0 +1,2 @@
+# Qarz
+Qarz daftari uchun
